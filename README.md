@@ -1,4 +1,4 @@
-####      ![](https://img.shields.io/badge/javascript-%7C-blue) ![](https://img.shields.io/badge/angular-%7C-red) ![](https://img.shields.io/badge/nodejs-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/mean/mernstack-%7C-blue) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/python-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  ![](https://img.shields.io/badge/react-%7C-yellowgreen)
+
 
 
 
