@@ -4,8 +4,6 @@
 
 ![Tech Stacks Image](https://media.tenor.com/ijFEgTs6FGoAAAAi/test-gadgets.gif)
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-0e76a8?style=flat-square&logo=Javascript&logoColor=yellow)]
-[![Python Badge](https://img.shields.io/badge/-Python-0e76a8?style=flat-square&logo=Javascript&logoColor=blue)]
 
 
 
