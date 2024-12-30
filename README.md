@@ -4,7 +4,7 @@
 
 ![Tech Stacks Image](https://media.tenor.com/ijFEgTs6FGoAAAAi/test-gadgets.gif)
 
-
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-0e76a8?style=flat-square&logo=Javascript&logoColor=yellow)](https://www.linkedin.com/in/keval-zinzuvadiya-292944189/)
 
 
 
